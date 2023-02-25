@@ -1,3 +1,6 @@
+new coflict main branch content
+Lorem ipsum
+// CONFLICT RESOLVED by Riabokon O.
 1233333333
 1233333333
 1233333364t5y64
